@@ -30,4 +30,4 @@ http://localhost:8090/
 ##### 测试json对象的restful接口
 
 HelloController
-http://localhost:8080/
+http://localhost:8080/hello

@@ -14,7 +14,7 @@ import java.util.List;
  */
 public class HelloController extends Controller
 {
-    public void hello()
+    public void index()
     {
 
         List<Demo> demoList = new ArrayList<>();
